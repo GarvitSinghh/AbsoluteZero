@@ -1,6 +1,20 @@
-# absolute_zero
+# AbsoluteZero
 
 A new app Addressing Climate Change and Helping Emissions go close to zero...
+
+# How to Run?
+
+```bash
+$ flutter clean
+```
+
+```bash
+$ flutter packages get
+```
+
+```bash
+$ flutter run
+```
 
 ## Getting Started
 
